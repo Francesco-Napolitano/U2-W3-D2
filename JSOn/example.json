@@ -1,0 +1,7 @@
+{
+  "first_name": "John",
+  "last_name": "Doe",
+  "age": 30,
+  "driing_license": true,
+  "languages": ["JS", "PHP", "Ruby"]
+}
